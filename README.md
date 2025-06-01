@@ -49,6 +49,10 @@ Option 2 : Bookmarklet (Quick Access)
 /logout.php
 /data/profile.json
 ```
+
+Uploading jsrecon.mp4…
+
+
 ## Disclaimer
 
 
