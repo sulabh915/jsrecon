@@ -50,7 +50,10 @@ Option 2 : Bookmarklet (Quick Access)
 /data/profile.json
 ```
 
-Uploading jsrecon.mp4…
+
+
+
+https://github.com/user-attachments/assets/472f0866-467a-40c5-8aca-d6fe57cf56ad
 
 
 ## Disclaimer
