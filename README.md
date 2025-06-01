@@ -27,7 +27,7 @@ Option 1: Paste in DevTools Console
 
 - Open Developer Tools → Console tab.
 
-- Paste the full code:
+- Paste the full code
 
 
 Option 2 : Bookmarklet (Quick Access)
@@ -39,7 +39,7 @@ Option 2 : Bookmarklet (Quick Access)
 
 - Visit a target website and click the bookmark.
 
-- Small iframe open contain information about all js files.
+- Small iframe open contain information about url js files.
 
 ## EXAMPLE
 ```javascript
