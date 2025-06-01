@@ -41,6 +41,9 @@ Option 2 : Bookmarklet (Quick Access)
 
 - Small iframe open contain information about url js files.
 
+https://github.com/user-attachments/assets/472f0866-467a-40c5-8aca-d6fe57cf56ad
+
+
 ## EXAMPLE
 ```javascript
 [+] Discovered paths/endpoints from JS & HTML:
@@ -53,7 +56,6 @@ Option 2 : Bookmarklet (Quick Access)
 
 
 
-https://github.com/user-attachments/assets/472f0866-467a-40c5-8aca-d6fe57cf56ad
 
 
 ## Disclaimer
